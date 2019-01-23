@@ -73,7 +73,47 @@ Untracked files:
 
 	answers.md
 
-Answer 6)
+Answer 6) I kinda commited to fast so idk how to got back and put what should be here so heres what i have: (PS you said it was ok)
+
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   answers.md
+
+
+Answer 7) 
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   answers.md
+
+Answer 8) 
+commit 5de119896de79c23556ec8d4509aaef65178f7d8 (HEAD -> master)
+Author: AJ Stein <as169117@ohio.edu>
+Date:   Wed Jan 23 18:38:17 2019 -0500
+
+    Initial commit
+
+Answer 9)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   answers.md
+
+Answer 10)
+
+
+
+
+
+
+
 
 
 
